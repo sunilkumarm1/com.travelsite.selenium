@@ -7,6 +7,7 @@ public class DemoMavenJava {
 	@Test
 	public void TestHello() {
 		System.out.println("Welcome to Hello World Program!\n");
+		System.out.println("Welcome to GitHub World Program!\n");
 	}
 
 }
